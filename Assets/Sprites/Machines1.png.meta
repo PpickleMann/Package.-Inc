@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 6f873b971ba48614795ca9ba7a5481e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8890096454667266712
+    second: Machines1_0
+  - first:
+      213: 2407661094255636232
+    second: Machines1_1
+  - first:
+      213: -3101734142152247266
+    second: Machines1_2
+  - first:
+      213: 681772023909479189
+    second: Machines1_3
+  - first:
+      213: 2328469615600708369
+    second: Machines1_4
+  - first:
+      213: -1004749727230634052
+    second: Machines1_5
+  - first:
+      213: 6889537299405990650
+    second: Machines1_6
+  - first:
+      213: -9087094442454409304
+    second: Machines1_7
+  - first:
+      213: -4522593733572130946
+    second: Machines1_8
+  - first:
+      213: -5383489475009226514
+    second: Machines1_9
+  - first:
+      213: 2196892515164151139
+    second: Machines1_10
+  - first:
+      213: -8676053844659723028
+    second: Machines1_11
+  - first:
+      213: 5941609020944015126
+    second: Machines1_12
+  - first:
+      213: 6685035353352101818
+    second: Machines1_13
+  - first:
+      213: -4204600062310444399
+    second: Machines1_14
+  - first:
+      213: 8102876678794048667
+    second: Machines1_15
+  - first:
+      213: 4334338088003587913
+    second: Machines1_16
+  - first:
+      213: 8647536367217115575
+    second: Machines1_17
+  - first:
+      213: 645603507606530641
+    second: Machines1_18
+  - first:
+      213: 614402125444448863
+    second: Machines1_19
+  - first:
+      213: -7906610791982620530
+    second: Machines1_20
+  - first:
+      213: 2396306775206999123
+    second: Machines1_21
+  - first:
+      213: -5143209904683660695
+    second: Machines1_22
+  - first:
+      213: -7702410309530858850
+    second: Machines1_23
+  - first:
+      213: -1457856561090880645
+    second: Machines1_24
+  - first:
+      213: 7380293682634980872
+    second: Machines1_25
+  - first:
+      213: -2290439156093516288
+    second: Machines1_26
+  - first:
+      213: 1010519034381873332
+    second: Machines1_27
+  - first:
+      213: 8506205757530394897
+    second: Machines1_28
+  - first:
+      213: 8060314518383742122
+    second: Machines1_29
+  - first:
+      213: -7590351090929319018
+    second: Machines1_30
+  - first:
+      213: 2632789265167793338
+    second: Machines1_31
+  - first:
+      213: -1157128497029681308
+    second: Machines1_32
+  - first:
+      213: 6603605306357083775
+    second: Machines1_33
+  - first:
+      213: 8418807491240749671
+    second: Machines1_34
+  - first:
+      213: -1225130865761523448
+    second: Machines1_35
+  - first:
+      213: 4142193884763659110
+    second: Machines1_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Machines1_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1434
+        width: 1410
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ae66faf97ff5b70800000000000000
+      internalID: 8890096454667266712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_1
+      rect:
+        serializedVersion: 2
+        x: 8098
+        y: 2176
+        width: 112
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa2a6420bb96120800000000000000
+      internalID: 2407661094255636232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_2
+      rect:
+        serializedVersion: 2
+        x: 8336
+        y: 2188
+        width: 34
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18705d3b3d64f4d0800000000000000
+      internalID: -3101734142152247266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_3
+      rect:
+        serializedVersion: 2
+        x: 9522
+        y: 422
+        width: 1000
+        height: 1904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5137ce62b04267900800000000000000
+      internalID: 681772023909479189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_4
+      rect:
+        serializedVersion: 2
+        x: 10386
+        y: 2276
+        width: 168
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bab2457c2605020800000000000000
+      internalID: 2328469615600708369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_5
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1970
+        width: 1120
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb75f3c42796e02f0800000000000000
+      internalID: -1004749727230634052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_6
+      rect:
+        serializedVersion: 2
+        x: 7028
+        y: 344
+        width: 1000
+        height: 1904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afae5e5ebad8c9f50800000000000000
+      internalID: 6889537299405990650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_7
+      rect:
+        serializedVersion: 2
+        x: 8260
+        y: 330
+        width: 1000
+        height: 1904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af141500c724e180800000000000000
+      internalID: -9087094442454409304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_8
+      rect:
+        serializedVersion: 2
+        x: 10472
+        y: 2106
+        width: 138
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77860706f48c31c0800000000000000
+      internalID: -4522593733572130946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_9
+      rect:
+        serializedVersion: 2
+        x: 7992
+        y: 2036
+        width: 118
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8550e68d00a45b0800000000000000
+      internalID: -5383489475009226514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_10
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1814
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dd2185a1eec7e10800000000000000
+      internalID: 2196892515164151139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_11
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1814
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce425e8fef6789780800000000000000
+      internalID: -8676053844659723028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_12
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1806
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fdf9face5d47250800000000000000
+      internalID: 5941609020944015126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_13
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1806
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfda7b2c3406cc50800000000000000
+      internalID: 6685035353352101818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_14
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 1800
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192966f258246a5c0800000000000000
+      internalID: -4204600062310444399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_15
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 1808
+        width: 102
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94f0529863337070800000000000000
+      internalID: 8102876678794048667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_16
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1806
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f46e7d689a62c30800000000000000
+      internalID: 4334338088003587913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_17
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1848
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b18f366288320870800000000000000
+      internalID: 8647536367217115575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_18
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1846
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a22a838f4a5f800800000000000000
+      internalID: 645603507606530641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1846
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f528c545a7bc68800800000000000000
+      internalID: 614402125444448863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_20
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 456
+        width: 3004
+        height: 1446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e802b9e2063164290800000000000000
+      internalID: -7906610791982620530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_21
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 1012
+        width: 248
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354331dd054614120800000000000000
+      internalID: 2396306775206999123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_22
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 1600
+        width: 1060
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a4f0277d5af98b0800000000000000
+      internalID: -5143209904683660695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1270
+        width: 76
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a4b12f1aa8b1590800000000000000
+      internalID: -7702410309530858850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_24
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1386
+        width: 76
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b94b68e27a4cbe0800000000000000
+      internalID: -1457856561090880645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_25
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1408
+        width: 76
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e748b70021c6660800000000000000
+      internalID: 7380293682634980872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_26
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1290
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006866909b9b630e0800000000000000
+      internalID: -2290439156093516288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_27
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 1348
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b03a1335b5160e00800000000000000
+      internalID: 1010519034381873332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1148
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1115bf3911d1c0670800000000000000
+      internalID: 8506205757530394897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 376
+        width: 1410
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaccf2e595dfbdf60800000000000000
+      internalID: 8060314518383742122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_30
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 344
+        width: 1410
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693c8a0f5e7a9a690800000000000000
+      internalID: -7590351090929319018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_31
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1124
+        width: 226
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcb9c633eb898420800000000000000
+      internalID: 2632789265167793338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_32
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1012
+        width: 110
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f601f33cd01ffe0800000000000000
+      internalID: -1157128497029681308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 818
+        width: 88
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e6c4ae908b4ab50800000000000000
+      internalID: 6603605306357083775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_34
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 760
+        width: 146
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a6dcbfecc95d470800000000000000
+      internalID: 8418807491240749671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_35
+      rect:
+        serializedVersion: 2
+        x: 9306
+        y: 782
+        width: 114
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809eae6f7f57ffee0800000000000000
+      internalID: -1225130865761523448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Machines1_36
+      rect:
+        serializedVersion: 2
+        x: 9266
+        y: 446
+        width: 188
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b122454670c7930800000000000000
+      internalID: 4142193884763659110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Machines1_0: 8890096454667266712
+      Machines1_1: 2407661094255636232
+      Machines1_10: 2196892515164151139
+      Machines1_11: -8676053844659723028
+      Machines1_12: 5941609020944015126
+      Machines1_13: 6685035353352101818
+      Machines1_14: -4204600062310444399
+      Machines1_15: 8102876678794048667
+      Machines1_16: 4334338088003587913
+      Machines1_17: 8647536367217115575
+      Machines1_18: 645603507606530641
+      Machines1_19: 614402125444448863
+      Machines1_2: -3101734142152247266
+      Machines1_20: -7906610791982620530
+      Machines1_21: 2396306775206999123
+      Machines1_22: -5143209904683660695
+      Machines1_23: -7702410309530858850
+      Machines1_24: -1457856561090880645
+      Machines1_25: 7380293682634980872
+      Machines1_26: -2290439156093516288
+      Machines1_27: 1010519034381873332
+      Machines1_28: 8506205757530394897
+      Machines1_29: 8060314518383742122
+      Machines1_3: 681772023909479189
+      Machines1_30: -7590351090929319018
+      Machines1_31: 2632789265167793338
+      Machines1_32: -1157128497029681308
+      Machines1_33: 6603605306357083775
+      Machines1_34: 8418807491240749671
+      Machines1_35: -1225130865761523448
+      Machines1_36: 4142193884763659110
+      Machines1_4: 2328469615600708369
+      Machines1_5: -1004749727230634052
+      Machines1_6: 6889537299405990650
+      Machines1_7: -9087094442454409304
+      Machines1_8: -4522593733572130946
+      Machines1_9: -5383489475009226514
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

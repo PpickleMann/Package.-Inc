@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: aac0b8e8bed209049b0d23bde153a813
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8903608049025104197
+    second: Stars_0
+  - first:
+      213: -7678458166956771760
+    second: Stars_1
+  - first:
+      213: 1222489850116747820
+    second: Stars_2
+  - first:
+      213: 908394461399428893
+    second: Stars_3
+  - first:
+      213: 6356170700173641542
+    second: Stars_4
+  - first:
+      213: -7166871409661841802
+    second: Stars_5
+  - first:
+      213: 5552329641660927838
+    second: Stars_6
+  - first:
+      213: 3303582094287134650
+    second: Stars_7
+  - first:
+      213: 8135986748720822029
+    second: Stars_8
+  - first:
+      213: -5614400832416863116
+    second: Stars_9
+  - first:
+      213: 6976608375314921165
+    second: Stars_10
+  - first:
+      213: 5218432558667699530
+    second: Stars_11
+  - first:
+      213: 2635194071972507443
+    second: Stars_12
+  - first:
+      213: 2434053896325560149
+    second: Stars_13
+  - first:
+      213: -6496578650881425696
+    second: Stars_14
+  - first:
+      213: 8497903717021780433
+    second: Stars_15
+  - first:
+      213: 5261382250960468193
+    second: Stars_16
+  - first:
+      213: -4422740967006600327
+    second: Stars_17
+  - first:
+      213: 6183606860243970708
+    second: Stars_18
+  - first:
+      213: -3253588033481309088
+    second: Stars_19
+  - first:
+      213: -4337058819220850669
+    second: Stars_20
+  - first:
+      213: -8005987826629069438
+    second: Stars_21
+  - first:
+      213: 3718855627647862584
+    second: Stars_22
+  - first:
+      213: -7852347698333694229
+    second: Stars_23
+  - first:
+      213: -4618523927395195335
+    second: Stars_24
+  - first:
+      213: 3214173149308870804
+    second: Stars_25
+  - first:
+      213: -4646203785342723704
+    second: Stars_26
+  - first:
+      213: -6372464179242632543
+    second: Stars_27
+  - first:
+      213: -1270371028168156409
+    second: Stars_28
+  - first:
+      213: -3854969205684013212
+    second: Stars_29
+  - first:
+      213: -4682746956038050320
+    second: Stars_30
+  - first:
+      213: -6178395123851564676
+    second: Stars_31
+  - first:
+      213: 3946028267783365670
+    second: Stars_32
+  - first:
+      213: -1897443263461493654
+    second: Stars_33
+  - first:
+      213: -460420868909500154
+    second: Stars_34
+  - first:
+      213: 7209041456365123044
+    second: Stars_35
+  - first:
+      213: 3724749853126047435
+    second: Stars_36
+  - first:
+      213: 3552011708857185142
+    second: Stars_37
+  - first:
+      213: 2143431676190761029
+    second: Stars_38
+  - first:
+      213: -5010240172747261569
+    second: Stars_39
+  - first:
+      213: 280212018690672229
+    second: Stars_40
+  - first:
+      213: -5907871357960751802
+    second: Stars_41
+  - first:
+      213: -2955744635064178050
+    second: Stars_42
+  - first:
+      213: 7324631033512898097
+    second: Stars_43
+  - first:
+      213: 8329540092639532426
+    second: Stars_44
+  - first:
+      213: -463547717995809863
+    second: Stars_45
+  - first:
+      213: 6678090274764649747
+    second: Stars_46
+  - first:
+      213: 8255812622978073534
+    second: Stars_47
+  - first:
+      213: -2261113381363591829
+    second: Stars_48
+  - first:
+      213: -3295330785580318999
+    second: Stars_49
+  - first:
+      213: 958414062611838763
+    second: Stars_50
+  - first:
+      213: 7257753984047256595
+    second: Stars_51
+  - first:
+      213: 3612266267460035178
+    second: Stars_52
+  - first:
+      213: -2995000527520858593
+    second: Stars_53
+  - first:
+      213: -6738652881546830593
+    second: Stars_54
+  - first:
+      213: -5914053941725908112
+    second: Stars_55
+  - first:
+      213: 5333559164193835775
+    second: Stars_56
+  - first:
+      213: 8726132437332694052
+    second: Stars_57
+  - first:
+      213: -2062747246986779021
+    second: Stars_58
+  - first:
+      213: 4456058605337452476
+    second: Stars_59
+  - first:
+      213: 2638931021783940849
+    second: Stars_60
+  - first:
+      213: -6446257422051627783
+    second: Stars_61
+  - first:
+      213: -4864191796146052053
+    second: Stars_62
+  - first:
+      213: 1304342625736980365
+    second: Stars_63
+  - first:
+      213: 4108873487998162831
+    second: Stars_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 900
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stars_6
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 4
+        width: 702
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f421f3466dd0d40800000000000000
+      internalID: 5552329641660927838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars_7
+      rect:
+        serializedVersion: 2
+        x: 5620
+        y: 0
+        width: 702
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf5350696ea8dd20800000000000000
+      internalID: 3303582094287134650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stars_8
+      rect:
+        serializedVersion: 2
+        x: 8852
+        y: 44
+        width: 702
+        height: 687
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d073ac677d4d8e070800000000000000
+      internalID: 8135986748720822029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4fa3403426aee53438ac0e559705a302
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":3.0,"y":3.0},"gridSpriteSize":{"x":3733.0,"y":933.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Stars_0: 8903608049025104197
+      Stars_1: -7678458166956771760
+      Stars_2: 1222489850116747820
+      Stars_3: 908394461399428893
+      Stars_4: 6356170700173641542
+      Stars_5: -7166871409661841802
+      Stars_6: 5552329641660927838
+      Stars_7: 3303582094287134650
+      Stars_8: 8135986748720822029
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

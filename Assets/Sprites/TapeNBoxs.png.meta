@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: b028b3b75dfeb47469c0cf95213a7886
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1615044241736999166
+    second: TapeNBoxs_0
+  - first:
+      213: 6178248096004842737
+    second: TapeNBoxs_1
+  - first:
+      213: -7623131989571975334
+    second: TapeNBoxs_2
+  - first:
+      213: -9062712304496304336
+    second: TapeNBoxs_3
+  - first:
+      213: 7668899994731984152
+    second: TapeNBoxs_4
+  - first:
+      213: -6090235644063656171
+    second: TapeNBoxs_5
+  - first:
+      213: -8063140258316701232
+    second: TapeNBoxs_6
+  - first:
+      213: 6160780046697528276
+    second: TapeNBoxs_7
+  - first:
+      213: 5782847532033937708
+    second: TapeNBoxs_8
+  - first:
+      213: -2540434521437406655
+    second: TapeNBoxs_9
+  - first:
+      213: 2017495124495085843
+    second: TapeNBoxs_10
+  - first:
+      213: 6303894455760786196
+    second: TapeNBoxs_11
+  - first:
+      213: 9216452155208062888
+    second: TapeNBoxs_12
+  - first:
+      213: -2639455002309485544
+    second: TapeNBoxs_13
+  - first:
+      213: 5592384620627321609
+    second: TapeNBoxs_14
+  - first:
+      213: 6767122162861543176
+    second: TapeNBoxs_15
+  - first:
+      213: -2711209585546216547
+    second: TapeNBoxs_16
+  - first:
+      213: -2259419642636462389
+    second: TapeNBoxs_17
+  - first:
+      213: -4914379131436969317
+    second: TapeNBoxs_18
+  - first:
+      213: -3551723612441715254
+    second: TapeNBoxs_19
+  - first:
+      213: -4896237968961866586
+    second: TapeNBoxs_20
+  - first:
+      213: -5330113677982860463
+    second: TapeNBoxs_21
+  - first:
+      213: -7762822081388810169
+    second: TapeNBoxs_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TapeNBoxs_0
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 3506
+        width: 806
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fd9baa1d53699e0800000000000000
+      internalID: -1615044241736999166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_1
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 3250
+        width: 834
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f42a98d8eb8db550800000000000000
+      internalID: 6178248096004842737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_2
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 3280
+        width: 846
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5745a538d1353690800000000000000
+      internalID: -7623131989571975334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2492
+        width: 768
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f9fe4ec27ca3280800000000000000
+      internalID: -9062712304496304336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_4
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2524
+        width: 806
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815bef3e9e76d6a60800000000000000
+      internalID: 7668899994731984152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_5
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2462
+        width: 834
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517d92df2f22b7ba0800000000000000
+      internalID: -6090235644063656171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_6
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 2488
+        width: 854
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1b1e8c7a8f91090800000000000000
+      internalID: -8063140258316701232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1726
+        width: 808
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db78beafcc7f7550800000000000000
+      internalID: 6160780046697528276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_8
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1746
+        width: 810
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c219029013dc04050800000000000000
+      internalID: 5782847532033937708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_9
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1686
+        width: 832
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a759633409ebcd0800000000000000
+      internalID: -2540434521437406655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_10
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 1716
+        width: 834
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311bc9760259ffb10800000000000000
+      internalID: 2017495124495085843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 886
+        width: 808
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4131d29ab9eeb7750800000000000000
+      internalID: 6303894455760786196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_12
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 938
+        width: 120
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a75f80876a67ef70800000000000000
+      internalID: 9216452155208062888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_13
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 872
+        width: 838
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c17bae8a5ce5bd0800000000000000
+      internalID: -2639455002309485544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_14
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 902
+        width: 834
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90369d7ce242c9d40800000000000000
+      internalID: 5592384620627321609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 147
+        width: 430
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f090dd0c5a9ed50800000000000000
+      internalID: 6767122162861543176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_16
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 157
+        width: 430
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b32ed1f39df5ad0800000000000000
+      internalID: -2711209585546216547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_17
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 183
+        width: 430
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc61d125ecde4a0e0800000000000000
+      internalID: -2259419642636462389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_18
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 193
+        width: 430
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b925b1ba73e9ccbb0800000000000000
+      internalID: -4914379131436969317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_19
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 213
+        width: 430
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd5b0c313eb5bec0800000000000000
+      internalID: -3551723612441715254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_20
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 223
+        width: 430
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a47f3432811d0cb0800000000000000
+      internalID: -4896237968961866586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_21
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 249
+        width: 430
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b716b99d1a706b0800000000000000
+      internalID: -5330113677982860463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TapeNBoxs_22
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 259
+        width: 430
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740f248327ae44490800000000000000
+      internalID: -7762822081388810169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TapeNBoxs_0: -1615044241736999166
+      TapeNBoxs_1: 6178248096004842737
+      TapeNBoxs_10: 2017495124495085843
+      TapeNBoxs_11: 6303894455760786196
+      TapeNBoxs_12: 9216452155208062888
+      TapeNBoxs_13: -2639455002309485544
+      TapeNBoxs_14: 5592384620627321609
+      TapeNBoxs_15: 6767122162861543176
+      TapeNBoxs_16: -2711209585546216547
+      TapeNBoxs_17: -2259419642636462389
+      TapeNBoxs_18: -4914379131436969317
+      TapeNBoxs_19: -3551723612441715254
+      TapeNBoxs_2: -7623131989571975334
+      TapeNBoxs_20: -4896237968961866586
+      TapeNBoxs_21: -5330113677982860463
+      TapeNBoxs_22: -7762822081388810169
+      TapeNBoxs_3: -9062712304496304336
+      TapeNBoxs_4: 7668899994731984152
+      TapeNBoxs_5: -6090235644063656171
+      TapeNBoxs_6: -8063140258316701232
+      TapeNBoxs_7: 6160780046697528276
+      TapeNBoxs_8: 5782847532033937708
+      TapeNBoxs_9: -2540434521437406655
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
